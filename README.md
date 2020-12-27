@@ -1,5 +1,17 @@
 # vue3
 
+### apps-
+- crud
+- calender
+- calculator
+- markdown
+- todo
+- weather
+- chat
+- authentication (firebase)
+- tensorflow object detection
+- carousel
+
 ## Project setup
 ```
 npm install
