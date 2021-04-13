@@ -31,6 +31,7 @@ export default {
         {title:"tensorflow", to:"/tensorflow"},
         {title:"todo", to:"/todo"},
         {title:"weather", to:"/weather"},
+        {title:"reaction", to:"/reaction"},
       ],
     };
   },

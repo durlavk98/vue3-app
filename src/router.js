@@ -11,6 +11,7 @@ import UserCrud from './pages/UserCrud.vue';
 import Tensorflow from './pages/Tensorflow.vue';
 import Todo from './pages/Todo';
 import Weather from './pages/Weather';
+import ReactionTimer from './pages/ReactionTimer';
 
 import store from './store/index';
 
@@ -44,6 +45,7 @@ const routes = [
     path: '/weather', 
     component: Weather, 
   },
+  {path: '/reaction', component: ReactionTimer},
 ]
 
 const router = createRouter({
